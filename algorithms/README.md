@@ -1,0 +1,9 @@
+-> Sorting algorithms
+-> Searching algorithms
+-> Backtracking
+-> Dynamic Programming
+-> Greedy Algorithm
+-> String
+-> Bit manipulation
+-> Two pointers
+-> Math

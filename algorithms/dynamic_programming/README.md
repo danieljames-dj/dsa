@@ -1,0 +1,2 @@
+1. Find the number of set of numbers which add upto a particular sum (setOfNumbersSum)
+2. Given an array, print an array in which i-th index is product of all elements of array except i-th and don't use division. (productArrayPuzzle)
