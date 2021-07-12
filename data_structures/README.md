@@ -10,8 +10,17 @@ Array
 Linked List
 Stack
 Queue
-Tree
+Tree (Binary Tree, Binary Search Tree, Heap, Trie, etc)
 Graph
 Hash Table
 
-1–4 comes under Linear Data Structures and 5–7 comes under Non-Linear Data Structures. But actually it doesn't matter whether it's linear or non-linear. The best way to start learning Data Structures is to keep a checklist of the above 7 types and go deep into each one of them.
+1–4 comes under Linear Data Structures and 5–7 comes under Non-Linear Data Structures. But actually it doesn't matter whether it's linear or non-linear. Some other important topics in Data Structures & Algorithms are:
+Matrix
+String
+Math
+Searching & Sorting
+Greedy
+Backtracking
+Dynamic Programming
+Bit Manipulation
+Two Pointers
